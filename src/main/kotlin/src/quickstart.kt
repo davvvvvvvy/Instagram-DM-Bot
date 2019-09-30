@@ -3,8 +3,8 @@ import Util
 
 fun main () {
 
-    val username = "friendsgramly"
-    val password = "Vojko123"
+    val username = ""
+    val password = ""
 
     val session = Util()
     val start = Main(username, password)
